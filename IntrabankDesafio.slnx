@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="intrabankChallenge.API/intrabankChallenge.API.csproj" />
+  <Project Path="intrabankChallenge.Domain/intrabankChallenge.Domain.csproj" />
+</Solution>
