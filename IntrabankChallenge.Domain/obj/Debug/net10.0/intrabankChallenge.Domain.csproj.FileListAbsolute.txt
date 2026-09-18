@@ -1,10 +1,12 @@
 C:\Users\samuel\Desktop\IntrabankChallenge\intrabankChallenge.Domain\bin\Debug\net10.0\intrabankChallenge.Domain.deps.json
 C:\Users\samuel\Desktop\IntrabankChallenge\intrabankChallenge.Domain\bin\Debug\net10.0\intrabankChallenge.Domain.dll
 C:\Users\samuel\Desktop\IntrabankChallenge\intrabankChallenge.Domain\bin\Debug\net10.0\intrabankChallenge.Domain.pdb
+C:\Users\samuel\Desktop\IntrabankChallenge\intrabankChallenge.Domain\obj\Debug\net10.0\intrabankChallenge.Domain.csproj.AssemblyReference.cache
 C:\Users\samuel\Desktop\IntrabankChallenge\intrabankChallenge.Domain\obj\Debug\net10.0\intrabankChallenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\samuel\Desktop\IntrabankChallenge\intrabankChallenge.Domain\obj\Debug\net10.0\intrabankChallenge.Domain.AssemblyInfoInputs.cache
 C:\Users\samuel\Desktop\IntrabankChallenge\intrabankChallenge.Domain\obj\Debug\net10.0\intrabankChallenge.Domain.AssemblyInfo.cs
 C:\Users\samuel\Desktop\IntrabankChallenge\intrabankChallenge.Domain\obj\Debug\net10.0\intrabankChallenge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\samuel\Desktop\IntrabankChallenge\intrabankChallenge.Domain\obj\Debug\net10.0\intrabankChallenge.Domain.sourcelink.json
 C:\Users\samuel\Desktop\IntrabankChallenge\intrabankChallenge.Domain\obj\Debug\net10.0\intrabankChallenge.Domain.dll
 C:\Users\samuel\Desktop\IntrabankChallenge\intrabankChallenge.Domain\obj\Debug\net10.0\refint\intrabankChallenge.Domain.dll
 C:\Users\samuel\Desktop\IntrabankChallenge\intrabankChallenge.Domain\obj\Debug\net10.0\intrabankChallenge.Domain.pdb

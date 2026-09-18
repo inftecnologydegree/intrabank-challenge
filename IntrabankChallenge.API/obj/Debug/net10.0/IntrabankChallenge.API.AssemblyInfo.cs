@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntrabankChallenge.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a6cae4e71f75ba3d23a9ba8e026d336cd084172")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntrabankChallenge.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntrabankChallenge.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
