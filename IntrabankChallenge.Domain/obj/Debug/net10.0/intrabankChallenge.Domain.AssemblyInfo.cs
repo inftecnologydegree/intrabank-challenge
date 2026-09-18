@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("intrabankChallenge.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a6cae4e71f75ba3d23a9ba8e026d336cd084172")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46ac99062f226e1401d1e3a2149a0b7b149f9fd1")]
 [assembly: System.Reflection.AssemblyProductAttribute("intrabankChallenge.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("intrabankChallenge.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
